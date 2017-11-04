@@ -2,3 +2,10 @@ body{
   margin:0;
   padding:0;  
 }
+
+.myform input{
+  color:#777;
+  outline:none;
+  font-size: 15px;
+
+}
