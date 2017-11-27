@@ -12,7 +12,7 @@ body{
  height:auto;
  width:500px;
  text-align: center;
- margin:90px 0 0 460px;
+ margin:90px 0 0 450px;
  padding-bottom:50px;
  box-shadow: 2px 2px 2px #777;
  
@@ -31,7 +31,7 @@ body{
  margin-top:50px; 
 }
 
-myform h4{
+.myform h4{
  text-align: left !important; 
 }
 
@@ -46,16 +46,16 @@ myform h4{
  
 }
 
-.myform a button{
- margin-top:25px;
- background-color:rgb(20, 145, 20); 
- border:none;
- height:50px;
- width:310px;
+.myform button{
+ margin-top:20px;
+ background-color:#21a301;
  color:#fff;
+ text-align:center;
+ width:310px;
  outline:0;
- font-size: 16px;
- box-shadow:2px 2px 2px #777;
+ height:50px;
+ border:none;
+ font-size:16px;
 }
 
 
